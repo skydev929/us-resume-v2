@@ -1,0 +1,50 @@
+{
+    "name": "Venu Yara",
+    "email": "venu.yara212@gmail.com",
+    "phone": "(510) 458-8143",
+    "location": "Louisville, KY, United States",
+    "experience": [
+      {
+        "company": "Humana / TCS",
+        "location": "United States",
+        "start_date": "August 2022",
+        "end_date": "Present",
+        "title": "Senior Full Stack Engineer"
+      },
+      {
+        "company": "FMC",
+        "location": "United States",
+        "start_date": "June 2021",
+        "end_date": "June 2022",
+        "title": "Senior Software Engineer (AI, Full Stack, Cloud)"
+      },
+      {
+        "company": "UPS",
+        "location": "United States",
+        "start_date": "December 2016",
+        "end_date": "June 2021",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "company": "SVS Tech",
+        "location": "United States",
+        "start_date": "April 2013",
+        "end_date": "May 2015",
+        "title": "Full Stack Engineer"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master’s Degree in Computer Science",
+        "school": "Northwestern Polytechnic University",
+        "start_year": "2014",
+        "end_year": "2016"
+      },
+      {
+        "degree": "Bachelor’s Degree in Computer Science",
+        "school": "JNTU Hyderabad",
+        "start_year": "2009",
+        "end_year": "2013"
+      }
+    ]
+  }

@@ -1,0 +1,58 @@
+{
+    "name": "Edwin Roberto Rivera",
+    "email": "robertorivera19954@gmail.com",
+    "phone": "(717) 882-0918",
+    "location": "Ephrata, PA, United States",
+    "experience": [
+      {
+        "company": "HydroPro Solutions",
+        "location": "United States",
+        "start_date": "May 2025",
+        "end_date": "Present",
+        "title": "Senior Full Stack Engineer"
+      },
+      {
+        "company": "Pratt & Whitney",
+        "location": "United States",
+        "start_date": "February 2023",
+        "end_date": "March 2025",
+        "title": "Full Stack Software Engineer"
+      },
+      {
+        "company": "Rx Marketing",
+        "location": "United States",
+        "start_date": "September 2021",
+        "end_date": "October 2022",
+        "title": "Full Stack Engineer"
+      },
+      {
+        "company": "RGR Marketing",
+        "location": "United States",
+        "start_date": "January 2020",
+        "end_date": "July 2021",
+        "title": "Software Developer"
+      },
+      {
+        "company": "Google",
+        "location": "United States",
+        "start_date": "February 2017",
+        "end_date": "December 2019",
+        "title": "Full Stack Developer"
+      },
+      {
+        "company": "Blue Rock Technologies",
+        "location": "United States",
+        "start_date": "September 2015",
+        "end_date": "December 2016",
+        "title": "Junior Web Developer"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree in Computer Science",
+        "school": "Argosy University",
+        "start_year": "2013",
+        "end_year": "2015"
+      }
+    ]
+  }

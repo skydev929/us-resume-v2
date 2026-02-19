@@ -1,0 +1,44 @@
+{
+  "name": "Carlos Esponda",
+  "email": "carlos.esponda.apple@hotmail.com",
+  "phone": "(407) 495-1030",
+  "location": "Dallas, TX, United States",
+  "experience": [
+    {
+      "company": "JPMorganChase",
+      "location": "United States",
+      "start_date": "January 2025",
+      "end_date": "Present",
+      "title": "Senior Software Engineer"
+    },
+    {
+      "company": "Flatiron Health",
+      "location": "United States",
+      "start_date": "October 2022",
+      "end_date": "January 2025",
+      "title": "Software Engineer"
+    },
+    {
+      "company": "Raytheon Technologies",
+      "location": "United States",
+      "start_date": "January 2020",
+      "end_date": "September 2022",
+      "title": "Full Stack Engineer"
+    },
+    {
+      "company": "Google",
+      "location": "United States",
+      "start_date": "May 2018",
+      "end_date": "August 2019",
+      "title": "Software Engineering Intern"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Software Engineering",
+      "school": "The University of Texas",
+      "start_year": "2015",
+      "end_year": "2019"
+    }
+  ]
+}
