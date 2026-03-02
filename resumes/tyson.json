@@ -1,0 +1,37 @@
+{
+    "name": "Tyson Calloway",
+    "email": "tyson.calloway@hotmail.com",
+    "phone": "(512) 710-3215",
+    "location": "Jacksonville, FL, United States",
+    "experience": [
+      {
+        "company": "IBM",
+        "location": "United States",
+        "start_date": "December 2023",
+        "end_date": "Present",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "company": "Rokt",
+        "location": "United States",
+        "start_date": "June 2020",
+        "end_date": "Nov 2023",
+        "title": "Full Stack Engineer"
+      },
+      {
+        "company": "Fanatics",
+        "location": "United States",
+        "start_date": "June 2019",
+        "end_date": "May 2020",
+        "title": "Fullstack Developer"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor’s Degree in Computer Science",
+        "school": "Florida Institute of Technology",
+        "start_year": "2015",
+        "end_year": "2019"
+      }
+    ]
+  }
