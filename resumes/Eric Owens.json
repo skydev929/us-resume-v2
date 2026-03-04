@@ -1,0 +1,45 @@
+{
+  "name": "Eric Owens",
+  "email": "ericoo076@outlook.com",
+  "title": "Senior Software Engineer",
+  "phone": "(940) 841-7773",
+  "location": "Austin, Texas, United States",
+  "experience": [
+    {
+      "company": "Royallegalsolutions",
+      "location": "United States",
+      "start_date": "April 2022",
+      "end_date": "Present",
+      "title": "Senior Software Engineer AI"
+    },
+    {
+      "company": "Resilience",
+      "location": "United States",
+      "start_date": "October 2021",
+      "end_date": "March 2022",
+      "title": "Senior Software Engineer"
+    },
+    {
+      "company": "Bluebird bio",
+      "location": "United States",
+      "start_date": "March 2019",
+      "end_date": "September 2021",
+      "title": "Software Engineer"
+    },
+    {
+      "company": "IBM",
+      "location": "United States",
+      "start_date": "November 2016",
+      "end_date": "March 2019",
+      "title": "Frontend Engineer"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science",
+      "school": "Oregon Institute of Technology",
+      "start_year": "2014",
+      "end_year": "2016"
+    }
+  ]
+}

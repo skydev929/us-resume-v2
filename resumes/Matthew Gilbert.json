@@ -1,0 +1,52 @@
+{
+  "name": "Matthew Henry Gilbert",
+  "email": "matthewhg682@outlook.com",
+  "title": "Senior AI Software Engineer",
+  "phone": "(682) 254-7451",
+  "location": "Huston, Texas, United States",
+  "experience": [
+    {
+      "company": "CharacterStrong",
+      "location": "Remote",
+      "start_date": "Apr 2022",
+      "end_date": "Present",
+      "title": "Senior AI Full Stack Engineer"
+    },
+    {
+      "company": "Flex",
+      "location": "Remote",
+      "start_date": "December 2018",
+      "end_date": "Apr 2022",
+      "title": "Software Engineer"
+    },
+    {
+      "company": "Blavity Inc",
+      "location": "Remote",
+      "start_date": "January 2017",
+      "end_date": "November 2018",
+      "title": "Software Engineer"
+    },
+    {
+      "company": "Microsoft",
+      "location": "Remote",
+      "start_date": "January 2015",
+      "end_date": "December 2016",
+      "title": "Software Development Intern"
+    },
+    {
+      "company": "Petco Love",
+      "location": "Remote",
+      "start_date": "January 2013",
+      "end_date": "January 2015",
+      "title": "Junior Software Engineer"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "University of Montana",
+      "start_year": "2009",
+      "end_year": "2012"
+    }
+  ]
+}
