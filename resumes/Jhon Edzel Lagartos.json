@@ -1,0 +1,46 @@
+{
+    "name": "Jhon Edzel Lagartos",
+    "email": "johnlagartos@outlook.com",
+    "phone": "+63 960 311 5227",
+    "location": "Calamba, Calabarzon, Philippines",
+    "experience": [
+      {
+        "title": "Software Engineer",
+        "company": "The Simple Vue",
+        "location": "",
+        "start_date": "Dec 2023",
+        "end_date": "Present"
+      },
+      {
+        "title": "Senior Full Stack Engineer",
+        "company": "PuzzleHR",
+        "location": "",
+        "start_date": "Jun 2020",
+        "end_date": "Nov 2023"
+      },
+      {
+        "title": "Full Stack Engineer",
+        "company": "The Simple Vue",
+        "location": "",
+        "start_date": "May 2018",
+        "end_date": "Apr 2020"
+      },
+      {
+        "title": "Web Developer",
+        "company": "GlobalTix",
+        "location": "",
+        "start_date": "Jul 2016",
+        "end_date": "Apr 2018"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor’s Degree, Computer Science",
+        "school": "Nagoya University",
+        "location": "Tokyo, Japan",
+        "start_year": "2012",
+        "end_year": "2016"
+      }
+    ]
+  }
+  
