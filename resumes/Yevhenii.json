@@ -1,0 +1,36 @@
+{
+    "name": "Yevhenii Hanaha",
+    "email": "yevheniihanaha@gmail.com",
+    "location": "Kyiv, Ukraine",
+    "experience": [
+      {
+        "company": "Face IT",
+        "location": "",
+        "start_date": "July 2022",
+        "end_date": "Present",
+        "title": "Senior Full Stack Engineer"
+      },
+      {
+        "company": "Materialise",
+        "location": "",
+        "start_date": "March 2020",
+        "end_date": "July 2022",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "company": "Develux",
+        "location": "",
+        "start_date": "May 2017",
+        "end_date": "March 2020",
+        "title": "Frontend Developer"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor’s Degree in Computer Science",
+        "school": "Vinnytisa National Technical University",
+        "start_year": "2011",
+        "end_year": "2015"
+      }
+    ]
+  }
