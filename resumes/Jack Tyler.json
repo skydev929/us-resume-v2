@@ -1,0 +1,38 @@
+{
+  "name": "Jack Tyler",
+  "email": "@outlook.com",
+  "title": "Senior Data Engineer",
+  "phone": "512 681 1477",
+  "location": "Pittsburgh, PA",
+  "experience": [
+    {
+      "company": "Thoughtminds AI",
+      "location": "",
+      "start_date": "October 2021",
+      "end_date": "Present",
+      "title": ""
+    },
+    {
+      "company": "BrightOps",
+      "location": "",
+      "start_date": "April 2018",
+      "end_date": "October 2021",
+      "title": ""
+    },
+    {
+      "company": "Cognizant",
+      "location": "",
+      "start_date": "Feb 2017",
+      "end_date": "December 2017",
+      "title": "Software Engineering Intern"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's Degree, Computer Science",
+      "school": "College of Saint Rose",
+      "start_year": "2014",
+      "end_year": "2017"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Samuel Cook",
+  "email": "@outlook.com",
+  "title": "Senior AI/ML Engineer",
+  "phone": "737 378 1820",
+  "location": "Philadelphia, PA",
+  "experience": [
+    {
+      "company": "Nexstrat",
+      "location": "",
+      "start_date": "April 2020",
+      "end_date": "Present",
+      "title": ""
+    },
+    {
+      "company": "SAP",
+      "location": "",
+      "start_date": "July 2018",
+      "end_date": "January 2020",
+      "title": ""
+    },
+    {
+      "company": "JPMorgan Chase & Co",
+      "location": "Software Engineer Intern",
+      "start_date": "Feb 2017",
+      "end_date": "July 2018",
+      "title": "Software Engineer"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's Degree, Computer Science",
+      "school": "Temple University",
+      "start_year": "2014",
+      "end_year": "2018"
+    }
+  ]
+}

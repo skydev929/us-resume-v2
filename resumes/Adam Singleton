@@ -1,0 +1,44 @@
+{
+  "name": "Adam Singleton",
+  "email": "@outlook.com",
+  "title": "Senior AI/ML Engineer",
+  "phone": "682 254 7451",
+  "location": "Dallas, Texas",
+  "experience": [
+    {
+      "company": "Tribe AI",
+      "location": "",
+      "start_date": "October 2021",
+      "end_date": "Present",
+      "title": ""
+    },
+    {
+      "company": "BrightOps",
+      "location": "",
+      "start_date": "April 2019",
+      "end_date": "October 2021",
+      "title": ""
+    },
+    {
+      "company": "Nvidia",
+      "location": "",
+      "start_date": "Feb 2018",
+      "end_date": "April 2019",
+      "title": "Software Engineering Intern"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master's Degree, Computer Science",
+      "school": "Alderson Broaddus University",
+      "start_year": "2019",
+      "end_year": "2020"
+    },
+    {
+      "degree": "Bachelor's Degree, Computer Science",
+      "school": "Alderson Broaddus University",
+      "start_year": "2015",
+      "end_year": "2018"
+    }
+  ]
+}

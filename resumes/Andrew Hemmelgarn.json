@@ -1,0 +1,44 @@
+{
+  "name": "Andrew Hemmelgarn",
+  "email": "@outlook.com",
+  "title": "Senior Data Engineer",
+  "phone": "940 841 7773",
+  "location": "Dallas, Texas",
+  "experience": [
+    {
+      "company": "Markovate AI",
+      "location": "",
+      "start_date": "October 2022",
+      "end_date": "Present",
+      "title": ""
+    },
+    {
+      "company": "Hexagon",
+      "location": "",
+      "start_date": "April 2019",
+      "end_date": "October 2022",
+      "title": ""
+    },
+    {
+      "company": "Google",
+      "location": "",
+      "start_date": "Feb 2018",
+      "end_date": "December 2018",
+      "title": "Software Engineering Intern"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master's Degree, Computer Science",
+      "school": "University of Texas at Dallas",
+      "start_year": "2019",
+      "end_year": "2020"
+    },
+    {
+      "degree": "Bachelor's Degree, Computer Science",
+      "school": "University of Texas at Dallas",
+      "start_year": "2015",
+      "end_year": "2018"
+    }
+  ]
+}
