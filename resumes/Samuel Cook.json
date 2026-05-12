@@ -1,7 +1,7 @@
 {
   "name": "Samuel Cook",
   "email": "samuelcoo51@outlook.com",
-  "title": "Senior Software Engineer Engineer",
+  "title": "Senior Software Engineer",
   "phone": "737 378 1820",
   "location": "Philadelphia, PA",
   "experience": [
@@ -17,20 +17,13 @@
       "location": "",
       "start_date": "July 2018",
       "end_date": "January 2020",
-      "title": "Embeded Software Engineer"
-    },
-    {
-      "company": "JPMorgan Chase & Co",
-      "location": "Software Engineer",
-      "start_date": "Feb 2017",
-      "end_date": "July 2018",
       "title": "Software Engineer"
     },
     {
-      "company": "IBM",
-      "location": "Electronic Assistantant",
-      "start_date": "Feb 2014",
-      "end_date": "July 2017",
+      "company": "JPMorgan Chase & Co",
+      "location": "",
+      "start_date": "Feb 2017",
+      "end_date": "July 2018",
       "title": "Software Engineer"
     }
   ],
